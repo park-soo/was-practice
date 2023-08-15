@@ -13,3 +13,5 @@ HttpResponse
 - StatusLine
 - Header
 - Body
+
+![page4image25038080](https://github.com/park-soo/was-practice/assets/127409329/7d0ce20d-3b4e-41b9-8f60-f9a9fa94d06e)
