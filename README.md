@@ -4,10 +4,10 @@
 HttpRequest
 - RequestLine(GET /calculate?operand1=11&operator=*&operand2=55 HTTP/1.1)
     - HttpMethod
-   ㄴ path
-   ㄴ queryString
-ㄴ Header
-ㄴ Body
+    - path
+    - queryString
+- Header
+- Body
 
 HttpResponse
 ㄴ StatusLine
