@@ -10,6 +10,6 @@ HttpRequest
 - Body
 
 HttpResponse
-ㄴ StatusLine
-ㄴ Header
-ㄴ Body
+- StatusLine
+- Header
+- Body
