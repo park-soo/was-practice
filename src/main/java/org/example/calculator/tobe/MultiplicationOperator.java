@@ -1,6 +1,5 @@
-package org.example.calculator.calculate.tobe;
+package org.example.calculator.tobe;
 
-import org.example.calculator.calculate.tobe.ArithmeticOperator;
 import org.example.calculator.domain.PositiveNumber;
 
 public class MultiplicationOperator implements ArithmeticOperator {

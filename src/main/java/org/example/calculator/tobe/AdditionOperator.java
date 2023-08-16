@@ -1,4 +1,4 @@
-package org.example.calculator.calculate.tobe;
+package org.example.calculator.tobe;
 
 import org.example.calculator.domain.PositiveNumber;
 
