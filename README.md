@@ -40,6 +40,8 @@ Step3 - Thread Pool을 적용해 안정적인 서비스가 가능하도록 한�
 
 ## 서블릿 프로그래밍
 
+![page7image55181936](https://github.com/park-soo/was-practice/assets/127409329/52de274a-a787-490e-ae39-81d6f5367f4a)
+
 Servlet (Server + Applet의 합성어)
 - 자바에서 웹 애플리케이션을 만드는 기술
 - 자바에서 동적인 웹 페이지를 구현하기 위한 표준
@@ -52,11 +54,11 @@ ServletContainer
 - Thread safety 하지 않음                 
 
 - 상태를 유지(stateful)하게 설계하면 안됨
-싱글톤 객체 멀티 쓰레드 환경에서 하나의 객체를 공유하게 되면, 우리가 뜻하지않는 레이스 컨디션 즉, 원치않는 결과가 나올 수 있다.
+싱글톤 객체 멀티 쓰레드 환경에서 하나의 객체를 공유하게 되면, 우리가 뜻하지않는 레이스 컨디션 즉, 원치않는 결과가 나올 수 있다.       
 ※ 레이스 컨디션 :  여러 프로세스, 혹은 쓰레드 동시에 하나의 자원에 접근하기 위해 경쟁하는 상태.
 
 
-![page7image55181936](https://github.com/park-soo/was-practice/assets/127409329/52de274a-a787-490e-ae39-81d6f5367f4a)
+
 
 
 
